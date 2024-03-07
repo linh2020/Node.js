@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/linh2020/Node.js/issues"
   },
-  "homepage": "https://github.com/linh2020/Node.js#readme"
+  "homepage": "https://github.com/linh2020/Node.js#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
